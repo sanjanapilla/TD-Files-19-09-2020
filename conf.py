@@ -19,7 +19,7 @@
 
 project = 'E-Commerece Project using Java'
 copyright = '2020, sanjanapilla'
-author = 'sanjana'
+author = 'sanjanapilla'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
